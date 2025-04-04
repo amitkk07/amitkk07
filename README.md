@@ -4,7 +4,7 @@
 </div>
 
 ![LinkedIn](https://www.linkedin.com/in/amit-kumar-kanaujiya-3439bb8b/)
-![border-seperator](assets/borderseparator.gif) 
+
 
 ![](https://komarev.com/ghpvc/?username=Amitkanaujiya)
 ## About Amit
