@@ -6,7 +6,7 @@
 ![LinkedIn](https://www.linkedin.com/in/amit-kumar-kanaujiya-3439bb8b/)
 
 
-![](https://komarev.com/ghpvc/?username=Amitkanaujiya)
+#![](https://komarev.com/ghpvc/?username=Amitkanaujiya)
 ## About Amit
 <p style="font-size:7px;">
  I am a software engineer!
