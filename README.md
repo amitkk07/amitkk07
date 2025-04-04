@@ -16,7 +16,7 @@
 
 ## About Amit
 <p align="center" style="font-size:14px;">
-  I am a software engineer!
+  As a skilled full-stack developer with a specialization in Node.js and React.js, I combine front-end and back-end expertise to create robust, scalable solutions. My passion for problem-solving fuels my work, and I thrive in collaborative settings where I can help bring innovative ideas to life. I’m also enthusiastic about connecting with other tech professionals, sharing knowledge, and building meaningful projects that make an impact.
 </p>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
